@@ -31,12 +31,12 @@ Permisos de escritura: Debido a que el requerimiento solicita poder acceder a ar
   
 Ejemplo de datos cargados:
 
-01000
-00010
-00000
-00001 
-  
-  
+01000  
+00010  
+00000  
+00001  
+
+
 5. una vez modificado el archivo input.txt, para ejecutar el programa cargando estos datos del archivo ejecutar desde	consola el comando:
 	# php bombilla.php true
   
