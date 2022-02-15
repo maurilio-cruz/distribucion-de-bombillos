@@ -31,9 +31,9 @@ Permisos de escritura: Debido a que el requerimiento solicita poder acceder a ar
   
 Ejemplo de datos cargados:
 
-01000 
-00010 
-00000 
+01000
+00010
+00000
 00001 
   
   
@@ -50,25 +50,25 @@ Al termino de ejecución del programa se una respuesta similar a la siguiente:
 
 Mapa original.
 
-0 1 0 0 0 
-0 0 0 1 0 
-0 0 0 0 0 
+0 1 0 0 0
+0 0 0 1 0
+0 0 0 0 0
 0 0 0 0 1 
 
 Número de Bombillas mínimas necesarias es de 4 Bombillas.
 
 Mapa sin mostrar como la luz se propaga. Cada caracter 2 representa una bombilla:
 
-2 1 2 0 0 
-0 0 0 1 0 
-0 0 0 0 2 
+2 1 2 0 0
+0 0 0 1 0
+0 0 0 0 2
 0 2 0 0 1 
 
 Mapa mostrando como la luz se propaga. Cada caracter 2 representa una bombilla. Cada número 3 representa un expacio iluminado. 
 
-2 1 2 3 3 
-3 3 3 1 3 
-3 3 3 3 2 
+2 1 2 3 3
+3 3 3 1 3
+3 3 3 3 2
 3 2 3 3 1 
 
 Donde:
