@@ -83,3 +83,7 @@ Donde:
 1 Representa un muro en la casilla.
 2 Representa una Bombilla en la Casilla.
 3 Representa un espacio vacio que esta iluminado por al menos una bombilla
+
+
+De manera complementaria se incluye un archivo readme.pdf. El cual si bien contiene la misma descripción que este archivo. contiene algunos recursos gráficos que pueden ser de ayuda complementaria.
+
