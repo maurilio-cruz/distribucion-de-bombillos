@@ -50,29 +50,36 @@ Al termino de ejecución del programa se una respuesta similar a la siguiente:
 
 Mapa original.
 
-0 1 0 0 0
-0 0 0 1 0
-0 0 0 0 0
-0 0 0 0 1 
+0 1 0 0 0  
+0 0 0 1 0  
+0 0 0 0 0  
+0 0 0 0 1  
 
 Número de Bombillas mínimas necesarias es de 4 Bombillas.
 
 Mapa sin mostrar como la luz se propaga. Cada caracter 2 representa una bombilla:
 
-2 1 2 0 0
-0 0 0 1 0
-0 0 0 0 2
-0 2 0 0 1 
+2 1 2 0 0  
+0 0 0 1 0  
+0 0 0 0 2  
+0 2 0 0 1  
 
 Mapa mostrando como la luz se propaga. Cada caracter 2 representa una bombilla. Cada número 3 representa un expacio iluminado. 
 
-2 1 2 3 3
-3 3 3 1 3
-3 3 3 3 2
-3 2 3 3 1 
+2 1 2 3 3  
+3 3 3 1 3  
+3 3 3 3 2  
+3 2 3 3 1   
 
 Donde:
 * La primer matriz representa la habitación original cargada desde el input. 
 * Despues se muestra el número de bombillas mínimas necesarias para iluminar la habitacion.
 * A continuación se muestra la forma en se sugiere colocar las bombillas en la habitacion.
 * Finalmente se muestra una simulació que indica la manera en que la habitación esta completamente iluminada.
+
+* los representación de cada caracter es la siguiente:
+
+0 representa un espacio vacio y no iluminado.
+1 Representa un muro en la casilla.
+2 Representa una Bombilla en la Casilla.
+3 Representa un espacio vacio que esta iluminado por al menos una bombilla
